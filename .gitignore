@@ -1,2 +1,7 @@
 ## Files to be ignored ##
-.venv
+venv/
+__pycache__
+*.pyc
+data/
+*.csv
+.ipynb_checkpoints/
